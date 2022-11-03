@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bukota</string>
+    <string name="city_name">Nama kota</string>
+    <string name="detail">Detail</string>
+    <string name="name">Arda Ardiyansyah</string>
+    <string name="email">ardaardiansyah24@gmail.com</string>
+    <string name="social_media">Connect me!</string>
+    <string name="jumlah_penduduk">Jumlah Penduduk</string>
+    <string name="info">Information</string>
+</resources>
